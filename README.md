@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:6366f1&height=200&section=header&text=XFaires&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58" width="100%" />
+<img src="./assets/header.svg" alt="XFaires - full stack developer" width="100%" />
 
 <a href="https://github.com/XFairesV1">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Python+%E2%80%A2+TypeScript+%E2%80%A2+Rust;SaaS%2C+CRMs+e+dashboards;Do+banco+de+dados+ao+deploy" alt="Typing SVG" />
@@ -9,10 +9,6 @@
 <br />
 
 <img src="./assets/terminal-1-deploy-sexta.svg" alt="Terminal: deploy na sexta" width="90%" />
-
-<br /><br />
-
-<img src="./assets/terminal-2-caca-ao-bug.svg" alt="Terminal: caça ao bug" width="90%" />
 
 <br /><br />
 
@@ -57,9 +53,3 @@ const xfaires = {
 - Desenvolvo sistemas completos, do banco de dados ao deploy.
 - Integro gateways de pagamento, WhatsApp e APIs de terceiros.
 - Nas horas vagas, escrevo apps desktop em **Rust**.
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=110&section=footer&reversal=true" width="100%" />
-
-</div>
