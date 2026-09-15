@@ -8,7 +8,11 @@
 
 <br />
 
-<img src="./assets/terminal.svg" alt="Terminal" width="90%" />
+<img src="./assets/terminal-1-deploy-sexta.svg" alt="Terminal: deploy na sexta" width="90%" />
+
+<br /><br />
+
+<img src="./assets/terminal-2-caca-ao-bug.svg" alt="Terminal: caça ao bug" width="90%" />
 
 <br /><br />
 
